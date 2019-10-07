@@ -1,0 +1,24 @@
+.logo{
+width: 100px;
+height: 100px;
+margin:10px;
+}
+
+footer{
+background-color: grey;
+font-size: 20px;
+}
+.blockFooter1{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.blockFooter3{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.paragrapheFooter{
+margin: 10px;
+
+}
