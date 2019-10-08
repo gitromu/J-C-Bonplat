@@ -6,16 +6,13 @@
     background-color: grey;
 }
 
-a{
-color: black;
-text-decoration: none;
 
+
+
+.animBandeau{
+  color: black;
+  text-decoration: none;
 }
-
-h2{
-  font-size: 1.7em;
-}
-
 .animBandeau:hover{
   color: white;
   opacity: 0.3;
