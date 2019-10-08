@@ -1,0 +1,28 @@
+
+#bandeau{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: grey;
+}
+
+
+
+
+.animBandeau{
+  color: black;
+  text-decoration: none;
+}
+.animBandeau:hover{
+  color: white;
+  opacity: 0.3;
+  background-color: white;
+  border: 10em;
+  transform: scale(1.2);
+}
+
+#accueil{
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 2.5em;
+}
